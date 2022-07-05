@@ -1,26 +1,10 @@
-# Welcome to my profile :)
-
-Hello !  My name is David Gomez, I'm from México. I'm a **developer full stack** and I enjoy learning thing news actually I'm a student at **UNAM**
-
-**I love the technology **
-			
-
-> const david =  { 
-> 						code:  [ JavaScript, HTML, CSS, Cybersecurity , MySQL ] ,
-> 						tools: [ React, Node ]			}
-
-**console.log('Viva la vida');**
-
-
-
-
 
 <h1 align="center">Hi 👋, I'm David Gomez</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
 - 🌱 I’m currently learning **Frameworks**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
